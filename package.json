@@ -1,7 +1,7 @@
 {
   "name": "sass",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ceci est un répo concernant le Projet réel",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass scss/main.scss css/style.css && node-sass --watch scss/main.scss css/style.css",
@@ -23,5 +23,13 @@
     "cssnano": "^4.1.10",
     "postcss": "^8.1.4",
     "postcss-cli": "^8.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EloKmsk/real-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EloKmsk/real-project/issues"
+  },
+  "homepage": "https://github.com/EloKmsk/real-project#readme"
 }

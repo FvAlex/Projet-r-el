@@ -1180,3 +1180,53 @@ body {
 
 .halal img {
   width: 10%; }
+
+.contact {
+  display: flex; }
+
+body {
+  background-color: #bcbcbc !important; }
+
+.container-footer {
+  background: white;
+  border-radius: 20px !important;
+  padding-top: 10px !important; }
+
+h2 {
+  font-family: 'Satisfy', cursive !important; }
+
+p {
+  font-family: 'Sarabun', sans-serif !important; }
+
+.logo-halal {
+  width: 17%;
+  margin-bottom: 10px; }
+
+.footer-title {
+  font-size: 30px; }
+
+footer {
+  width: 98% !important; }
+
+.footer-border {
+  border-bottom: 4px solid #dee2e6 !important;
+  border-bottom-width: 1px; }
+
+@media (min-width: 992px) {
+  .footer-border {
+    border-right: 4px solid #dee2e6 !important;
+    border-right-width: 1px;
+    border-bottom: none !important; }
+  #footer-contact {
+    padding-top: 6%; }
+  #footer-contact-hour {
+    padding-top: 2%; }
+  #footer-contact-mention {
+    padding-top: 2%; } }
+
+.created-by-text {
+  font-weight: bold; }
+
+.created-by-title {
+  font-family: 'Satisfy', cursive !important;
+  font-size: 30px; }
